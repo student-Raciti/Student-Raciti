@@ -3,3 +3,4 @@
 Student 
 refrigerator trade 
  2 nd 
+int myname;vidhin
