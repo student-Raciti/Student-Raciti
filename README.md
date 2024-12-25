@@ -1,6 +1,3 @@
- rohitvidhin8@gmail     
-# Student-Raciti
-Student 
-refrigerator trade 
- 2 nd 
-int myname;vidhin
+ rohitvidhin8@gmail Mingw64 /f/CODE
+ (main)  
+$ GitHub branch -m main
