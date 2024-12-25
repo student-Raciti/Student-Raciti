@@ -6,7 +6,7 @@ $ GitHub branch -m main
 $ GitHub add . warning :~
 refrigerator trade
 practical 126
-Aim:~                                    Identify the parts and controls of ice plant 
+Aim:~  Identify the parts and controls of ice plant 
  ++Tool g equipment '~
 (1)screw driver-1 no
 (2)piler combination-1 no
