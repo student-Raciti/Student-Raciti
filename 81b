@@ -1,34 +1,82 @@
-  cass firstclass {
-
- public static void main (string args[]) {
-
-  system.out.println("hello World"):
-   }
-}
--
-rohitvidhin8@gmail
-refrigerator trade
+<stdin>: error: class, interface, or enum expected
+^
+error: class, interface, or enum expected
+rohitvidhin8@gmail   mingw64   /f/code
+                     ↓  
+                       ^
+<stdin>: error: = expected
+<stdin>: error: git remote add origin                         
+                             ^
+<stdin>: error: reached end of file while parsing
+<stdin>:error: git remote add origin                         <stdin>:error: = expected
+                             ^
+                             ^
+<stdin>:error: illegal start of type
+<stdin>:error: reached end of file while parsing
+       ^
+<stdin>:error: <identifier> expected
+<stdin>:error: reached end of file while parsing
+                 ^
+<stdin>:error: = expected
+<stdin>: error: reached end of file while parsing
+                               ^
+<stdin> :error: = expected
+<stdin>: error: reached end of file while parsing
+                                       ^
+<stdin>:error: <identifier> expected
+<stdin>:error: git remote add origin                         
+       ^
+<stdin>:error: <identifier> expected
+<stdin>:error: git remote add origin                         
+                ^
+<stdin>:error: = expected
+<stdin>:error: git remote add origin                         
+                             ^
+<stdin>: error: = expected
+   refrigerator trade
+   ^
+<stdin>:error: = expected
 practical 126
+^
+<stdin>: error: <identifier> expected
+practical 126
+         ^
+<stdin>:error: = expected
+practical 126
+          ^
+<stdin>: error: <identifier> expected
 Aim:~                                    Identify the parts and controls of ice plant 
+   ^
+<stdin>: error: = expected
+Aim:~                                    Identify the parts and controls of ice plant 
+                                                      ^
+<stdin>:error: = expected
+Aim:~                                    Identify the parts and controls of ice plant 
+                                                                ^
+<stdin>:error: = expected
+Aim:~                                    Identify the parts and controls of ice plant 
+                                                                            ^
+<stdin>:18: error: = expected
  ++Tool g equipment '~
+ ^
+<stdin>:error: = expected
+ ++Tool g equipment '~
+          ^
+<stdin>:error: unclosed character literal
+ ++Tool g equipment '~
+                    ^
+<stdin>: error: = expected
 (1)screw driver-1 no
+               ^
+<stdin>: error: <identifier> expected
+(1)screw driver-1 no
+                    ^
+<stdin>:: error: illegal start of type
 (2)piler combination-1 no
-(3)D.e.spanner set-1 no
-(4)Test Lamp-1 no
-(5)Gauge manifold-1 no
+ ^
+<stdin>: error: illegal character: '`'
 (6)Trainee `s tool kit-1 no
-(7)Ice plant 
+           ^
+<stdin>:error: reached end of file while parsing
++-+                                                                                      
  
-Materials:~ (1) Cotton Waste-as req. 
- Ice plant from Top With ice block Removal Arrangement
-1lce crane  
-2Crane Tanek
-3Lce Tank
-4pLatform
-5Drain
-6Brine 
-7Icecans
-8ice slope 9 ice can tip 10 Thawing Tank
-11 brine Agitator
-+-+-
-+-+
