@@ -5,10 +5,7 @@ rohitvidhin8@gmail   mingw64   /f/code
 error: git remote add origin                         
                              ^
 error: reached end of file while parsing
-error: git remote add origin                         error: = expected             ^
-error: illegal start of type
-error: reached end of file while parsing
-   
+error: git remote add origin                        
 error: = expected
 error: reached end of file while parsing
     -
